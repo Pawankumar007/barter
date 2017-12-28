@@ -1,0 +1,13 @@
+{
+  "name": "Barter",
+  "version": "0.0.1",
+  "homepage": "https://github.com/rohaus/barter",
+  "authors": [
+    "Ryan Roxas <ryanaroxas@gmail.com>"
+  ],
+  "dependencies": {
+    "angularjs-imageupload-directive": "*",
+    "angular-route": "~1.2.0-rc.3",
+    "lodash": "~2.4.1"
+  }
+}
